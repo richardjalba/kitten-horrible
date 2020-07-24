@@ -1,1 +1,3 @@
 # kitten-horrible
+
+This was a 5 minute challenge to come up with something on the spot. Not impressive at all...
